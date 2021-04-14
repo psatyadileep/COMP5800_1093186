@@ -7,10 +7,15 @@ Over the years, due to the rise of e-commerce the use of debit cards for purchas
 # Required Packages
 
 -sklearn
+
 -scipy
+
 -numpy
+
 -pandas
+
 -matplotlib
+
 -xgboost
 
 
