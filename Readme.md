@@ -20,4 +20,5 @@ Over the years, due to the rise of e-commerce the use of debit cards for purchas
 
 
 The project code be found and can be run from Credit Card Fraud Detection_code.ipynb,
+
 this is can be found in directory : Project_Files/Credit Card Fraud Detection_code.ipynb
