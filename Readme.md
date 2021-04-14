@@ -4,3 +4,15 @@ Over the years, due to the rise of e-commerce the use of debit cards for purchas
 
  When the information of your credit card is used to make purchases without your knowledge that implies there is a fraudulent transaction which can adversely cost you money and can also effect your credit score. Some individuals try to exploit this information making identity thefts and cause of huge losses to credit card owners by doing fraudulent transactions and this problem is something to be addressedWith the increased e-commerce and the ease of making payments and transactions, It is now important than ever before for establish proper fraud detection and fraud prevention techniques. While Fraud prevention works by setting some thresholds and security methods to prevent fraud , fraud detection is totally on understanding the patterns of fraud transactions by Machine Learning and Deep Learning techniques to check for the possibility of a fraudulent transaction .As the methods and strategies used by the fraudsters change constantly there is high and constant need for ML techniques in the sector.And over the years these machine learning techniques have been widely used in fraud detection and achieved favourable performances.
 
+# Required Packages
+
+-sklearn
+-scipy
+-numpy
+-pandas
+-matplotlib
+-xgboost
+
+
+The project code be found and can be run from Credit Card Fraud Detection_code.ipynb, this is can be found in directory 
+ : Project_Files/Credit Card Fraud Detection_code.ipynb
