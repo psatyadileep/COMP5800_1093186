@@ -1,0 +1,8 @@
+1. Put credictcard.csv in the data directory.
+2. Install Voilla, on top on jupyter notebook
+
+> pip install voila
+
+3. Now, open the CMD in the folder where APP.ipnb is present. Run the following command.
+
+> voila APP.ipynb
